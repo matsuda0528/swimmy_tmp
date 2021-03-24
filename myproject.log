@@ -1,0 +1,169 @@
+This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2020.4.3)  24 MAR 2021 15:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**myproject.tex
+(./myproject.tex
+pLaTeX2e <2018-12-01> (based on LaTeX2e <2018-12-01>)
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2018/12/11 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen118
+\jsc@mmm=\dimen119
+\jsc@smallskipamount=\skip41
+LaTeX Info: Redefining \rmfamily on input line 466.
+LaTeX Info: Redefining \sffamily on input line 469.
+LaTeX Info: Redefining \ttfamily on input line 472.
+LaTeX Info: Redefining \textmc on input line 476.
+LaTeX Info: Redefining \textgt on input line 478.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 540.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 731.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 731.
+\fullwidth=\dimen120
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 884.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 884.
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\@abstractbox=\box43
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\jsc@tocl@width=\dimen121
+\@lnumwidth=\dimen122
+\bibindent=\dimen123
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2017/02/24 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
+)
+\heisei=\count91
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (sty/jtygm.sty
+Package: jtygm 1998/06/12 based on v1.3 KANJI font defines
+)
+(sty/nutils.sty
+Package: nutils 2014/11/22 v1.0 by Yoshinari Nomura
+) (./myproject.aux)
+\openout1 = `myproject.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 32.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 42.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 42.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 42.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 42.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 47.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 47.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 47.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 47.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 64.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 64.
+ [1
+
+]
+File: ./figs/trivia_flow.pdf Graphic file (type pdf)
+<./figs/trivia_flow.pdf>
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 118.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 118.
+ [2]
+File: ./figs/trivia.pdf Graphic file (type pdf)
+<./figs/trivia.pdf>
+File: ./figs/trivia_HHMM.pdf Graphic file (type pdf)
+<./figs/trivia_HHMM.pdf>
+File: ./figs/trivia_off.pdf Graphic file (type pdf)
+<./figs/trivia_off.pdf>
+File: ./figs/trivia_help.pdf Graphic file (type pdf)
+<./figs/trivia_help.pdf>
+ [3] (./myproject.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 5.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 5.
+ [4]) [5]
+(./myproject.aux) ) 
+Here is how much of TeX's memory you used:
+ 1012 strings out of 494319
+ 12285 string characters out of 6171546
+ 78135 words of memory out of 5000000
+ 4927 multiletter control sequences out of 15000+600000
+ 12636 words of font info for 59 fonts, out of 8000000 for 9000
+ 269 hyphenation exceptions out of 8191
+ 25i,4n,28p,208b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on myproject.dvi (5 pages, 7808 bytes).
